@@ -1,0 +1,13 @@
+{
+  "name": "canvas-image-text",
+  "version": "1.0.0",
+  "description": "A simple app to overlay text on an image using canvas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "canvas": "*"
+  }
+}
